@@ -1,0 +1,10 @@
+.App{
+    /* border: red solid 1px; */
+    display: flex;
+    height: 650px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url("https://i.ytimg.com/vi/SCLblwbE5LE/maxresdefault.jpg");
+    position: relative;
+}

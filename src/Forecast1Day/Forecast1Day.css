@@ -1,0 +1,19 @@
+.ForcastDay{
+    /* border: rgb(0, 255, 51) solid 1px; */
+    width: 200px;
+    height: 245px;
+    background-color: rgba(128, 128, 128, 0.303);
+    text-align: center;
+    margin: 10px;
+    /* position: relative; */
+}
+.ForcastDayRow{
+    display:flex;
+    justify-content: space-around;
+    padding: 10px;
+   
+}
+.temp{
+    color: rgba(0, 0, 0, 0.502)
+   
+}
